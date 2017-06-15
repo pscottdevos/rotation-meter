@@ -1,0 +1,44 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=rotation-meter-1.0
+*Date=07:16:27
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;220k;THT;16.9167;-31.2797;0;Bottom;R9
+2;;;3.98251;-24.6569;0;Bottom;TXT2
+3;;;3.73698;-27.3137;0;Bottom;TXT2
+4;;300 mil [THT];21.9713;-9.68968;0;Bottom;D2
+5;;;15.4195;-6.66631;0;Bottom;TXT3
+6;;;6.75668;-27.4697;0;Bottom;Via4
+7;;;28.3467;-13.4997;0;Bottom;J1
+8;100k;THT;27.0767;-35.0897;-90;Bottom;R7
+9;10k;THT;11.8367;-16.0397;90;Bottom;R4
+10;;DIP (Dual Inline) [THT];44.8567;-21.1197;90;Bottom;IC1
+11;220k;THT;14.3767;-33.8197;180;Bottom;R10
+12;100nF;100 mil [THT, multilayer];32.1567;-38.8997;0;Bottom;C2
+13;100k;THT;9.29668;-22.3897;-90;Bottom;R8
+14;;;5.49549;-15.5577;0;Bottom;TXT3
+15;330;THT;57.5567;-10.9597;-90;Bottom;R1
+16;100k;THT;34.6967;-5.87968;180;Bottom;R3
+17;;DIP (Dual Inline);23.2667;-21.1197;90;Bottom;U2
+18;;;6.75668;-24.9297;0;Bottom;Via3
+19;100nF;100 mil [THT, multilayer];44.8567;-30.0097;90;Bottom;C1
+20;;;6.75668;-30.0097;0;Bottom;Via1
+21;;power_jack_slot;5.37237;-6.05879;0;Bottom;P2
+22;;THT;18.1867;-40.1697;90;Bottom;S1
+23;10k;THT;53.7467;-30.0097;0;Bottom;R2
+24;68k;THT;37.2367;-31.2797;90;Bottom;R6
+25;;;13.1067;-8.41968;0;Bottom;Via5
+26;;;3.37074;-30.2028;0;Bottom;TXT1
+27;;qrd1114;56.2867;-21.2848;90;Bottom;U1
+28;;300 mil [THT];22.0221;-4.60968;180;Bottom;D1
+29;;;6.75669;-13.4997;0;Bottom;Via6
